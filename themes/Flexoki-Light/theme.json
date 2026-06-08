@@ -1,0 +1,29 @@
+{
+    "colors": {
+        "AlternateBase": "#F2F0E5",
+        "Base": "#FFFCF0",
+        "BrightText": "#100F0F",
+        "Button": "#DAD8CE",
+        "ButtonText": "#282726",
+        "Highlight": "#205EA6",
+        "HighlightedText": "#FFFCF0",
+        "Link": "#205EA6",
+        "Text": "#282726",
+        "ToolTipBase": "#E6E4D9",
+        "ToolTipText": "#282726",
+        "Window": "#F2F0E5",
+        "WindowText": "#282726",
+        "fadeAmount": 0.3,
+        "fadeColor": "#878580"
+    },
+    "logColors": {
+        "Launcher": "#5E409D",
+        "Error": "#AF3029",
+        "Warning": "#AD8301",
+        "Debug": "#24837B",
+        "FatalHighlight": "#AF3029",
+        "Fatal": "#FFFCF0"
+    },
+    "name": "Flexoki Light",
+    "widgets": "Fusion"
+}

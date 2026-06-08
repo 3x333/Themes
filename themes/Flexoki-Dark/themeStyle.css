@@ -1,0 +1,12 @@
+/*
+ * SPDX-FileCopyrightText: 2023 Steph Ango
+ * SPDX-FileCopyrightText: 2026 3x333
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+QToolTip {
+	color: #CECDC3;
+	background-color: #282726;
+	border: 1px solid #403E3C;
+}

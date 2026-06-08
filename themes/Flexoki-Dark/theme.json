@@ -1,0 +1,29 @@
+{
+    "colors": {
+        "AlternateBase": "#282726",
+        "Base": "#1C1B1A",
+        "BrightText": "#DAD8CE",
+        "Button": "#403E3C",
+        "ButtonText": "#CECDC3",
+        "Highlight": "#4385BE",
+        "HighlightedText": "#1C1B1A",
+        "Link": "#4385BE",
+        "Text": "#CECDC3",
+        "ToolTipBase": "#343331",
+        "ToolTipText": "#CECDC3",
+        "Window": "#282726",
+        "WindowText": "#CECDC3",
+        "fadeAmount": 0.3,
+        "fadeColor": "#575653"
+    },
+    "logColors": {
+        "Launcher": "#8B7EC8",
+        "Error": "#D14D41",
+        "Warning": "#D0A215",
+        "Debug": "#3AA99F",
+        "FatalHighlight": "#D14D41",
+        "Fatal": "#1C1B1A"
+    },
+    "name": "Flexoki Dark",
+    "widgets": "Fusion"
+}
